@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Supports multiple archive formats:** `.zip`, `.rar`, `.7z`
 - **Auto-extracts into named folders** matching the archive filename
