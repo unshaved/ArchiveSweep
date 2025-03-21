@@ -25,9 +25,9 @@
 
 ---
 
-## 🔧 Setup
+## Setup
 
-### 1. Clone & Build
+### Clone & Build
 
 Make sure you have Java 8+ installed.
 
